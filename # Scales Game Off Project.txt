@@ -1,0 +1,85 @@
+# Scales Game Off Project
+
+## Presentation
+
+* Title: Scales (tentative)
+* Target Platform: PC
+* Target Audience: Casual gamers, Puzzle game fans, Platformer fans, Dungeon Crawling Fans.
+* Target Rating: E for everyone
+* Expected Shipping Date: 30/11/2023
+
+## Story and Gameplay
+
+After a long journey, treasure hunter Kiwi arrives at the final destination of his adventure,carrying only his poncho and loads of cuteness. Kiwi traverses through the ominous temple ruins when he steps on a trap, a giant boulder falls from the ceiling and threatens to crush him! But luckily he manages to get inside the treasure room in time, not so luckily he gets trapped there in the process. In the center of the room he finds a stone table, with a cube-shaped treasure chest with some intricate designs on one sides. While looking around, he spots a small balcony carved into the squares that cover the sides of the chest, and he finds himself shrunk and standing on the chest's balcony! The intricate square tiles on the chest turn out to be a continuation of the dungeon, a final test stands between him and his treasure.
+
+_Scales_ is a 3D dungeon crawler and platformer where the player has to interact in three scales: Normal and small and even smaller. The big picture lets you slide and rotate several tile pieces (which are rooms made in a modular design) to create paths and unlock mechanisms to get access to your precious treasure. But to unlock the chest itself, you'll have to traverse the tiles in the small view: Kiwi crosses the threshold to the chest's sides and while being small he can explore the rooms themselves. There is one more layer of smallness, that allows Kiwi to enter vases and other items inside the rooms, which he can do to gain access to keys and other utilities. Combining the three scales normal (to put the room modules in the correct order), small (to traverse the platform dungeon within the chest) and smaller (to gain access to keys and ways to solve puzzles within the decor of the rooms) will allow Kiwi to succeed in his quest.
+
+## Game Flow
+
+In _Scales_ it is crucial to use intelligence, logic and ability. Room movement and size shifting puzzles are the signature values of this game. You will notice that you have to change a room's orientation while you are big, to cross a gap or to reach a key while you are small. 
+
+As a pure-hearted (and a little clumsy) treasure hunter, Kiwi has no power-ups nor magic. So the player will have to use his smarts to aid him along the way. As the game progresses, Kiwi will face bigger challenges: traps, enemies, puzzles, etc., so the player will have to figure what to do next with practice and through trial and error.
+
+## Character and controls
+
+### Bio Sketch
+
+Kiwi is a small green and yellow parakeet with a red beak and a love for treasure hunting. He wears a poncho and a utility belt. And has a tendency to collect shiny objects, thing that lead him to treasure hunting. 
+
+### Controls
+
+Kiwi is controlled by the player in two ways. When he is big we see him in a first person view and we manipulate the level tiles by sliding and turning them (in a way similar to Slider puzzles) _(**WASD** sliding, **QE** rotating)_, and he can focus on specific tiles which have a balcony to change gamemodes _(**Space** change view)_. When he is small we control him in the typical platformer way: Running, jumping and interacting with scene objects. _(**WASD**, **Space**, **E**)_ Appart from the typical controls Kiwi is able to jump twice and fall slowly thanks to his wings _(**Space** while in mid air & Holding **Space**)_. In this scale, graphics are presented in 3D but the momevement is restricted as a sidescroller.
+Kiwi has a total of 3 Hit Points, and the game ends when he runs out of them, hits points are lost when being hit by a trap or enemy. And they can be regained by finding birdseed in pots.
+
+## Main Gameplay Concept
+
+### Genres
+
+The genres present in the game are dungeon crawler, platformer and puzzle. 
+
+### Sequence
+
+It's divided in four worlds / levels, each one with a different theme. Each world / level consists on a modular structured puzzle that the player has to solve by ordering the pieces in the correct way and by beating the platform section. This will grant access to the next world / level. After beating a world/level a latch on the side of the treasure chest is unlocked.
+
+### USP's
+
+* Recursive dungeons. Every level has a dungeon inside it and if we add the vassel minigame we will have another layer of depth.
+* Size Shifting puzzles and room movement puzzles.
+
+## Game World
+
+* Diceria: it's the main location, the place where the player arrives. The temple ruins may have columns and statues of strange bird-like figures.
+* Egyptian dungeon: walls with hieroglyphs, painting of ibis, gooses, god Thot, god Horus, pillars, rolling stones, yellow colours.
+* Aztec dungeon: mosaics, quetzal birds, totems, green colours, spikes, poison darts.
+* Asian dungeon: ukiyo-e, lotus, cherry trees, herons, dragons, red colours.
+* Greek dungeon: engravings, Doric/Ionic columns, phoenixes, harpies, white colours.
+
+## Interface & Music
+
+The mood is mysterious and invites to adventure, but with a touch of humour and joy.
+
+### Game Story Scheme
+
+Title Menu -> Opening -> First Level -> Level Sequence -> Level Start -Big- -> Dungeon -small- (if user press Start -> Menu) -> Game Over -> Retry (player can change from small to large to try another combination) -> Level completed
+
+## Enemies
+
+Kiwi doesn't attack and he is vulnerable to enemies. They are mainly mechanic (obstacles and traps). Enemyies' routines are simple, they go back and forth (floor saw) or they are thrown (darts, stones).
+
+So the big menace are the traps present in every level: darts, spikes, stone balls... Player has to organize the modular structure of the level so that Kiwi doesn't get hurt.
+
+## Extras
+
+### Cutscenes
+
+They are presented at this moments:
+* At the beginning of the game, showing Kiwi arriving the dungeon and getting trapped.
+* When you beat a level and get access to the next one.
+* At game over.
+* When you beat the entire game.
+
+They are made with in-engine animated illustrations.
+
+### Replay
+
+An incentive to play again is to try another combination for the module prisms and explore different ways to finish the level and beat Kiwi's quest.
